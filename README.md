@@ -1,4 +1,4 @@
-o(^▽^)o Hello, My name is Anila I am a 20 year old Software Engineering graduate from Kosovo. 
+o(^▽^)o Hello, My name is Anila I am a 20 year old Software Engineering graduate from Kosovo.
 
 As a recent college graduate, I am excited to showcase the diverse range of projects I had the opportunity to work on during my 3-year academic journey. These projects not only allowed me to apply the theoretical knowledge I gained in the classroom but also empowered me to enhance my skills as a developer.
 
